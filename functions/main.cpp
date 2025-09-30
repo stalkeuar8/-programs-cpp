@@ -48,7 +48,7 @@ int main() {
 	int arr2[size2] = { 1, 2, 3 };
 	cout << "The array sum is: " << arr_sum(arr2, size2) << endl;
 
-	cout << "\nThe program is over! ";
+
 }
 
 
